@@ -1,0 +1,1 @@
+console.log("C++ web server loaded this JS file successfully!");
