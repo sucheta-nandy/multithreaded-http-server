@@ -28,12 +28,14 @@ Use the latest compiler supporting C++20 (or include the helper function if not)
 
 In the Terminal:
 g++ -std=c++20 server.cpp -o server -pthread
+
 ./server
 
 Go To:
 http://localhost:8080
 
 When running:
+
 <img width="419" height="190" alt="image" src="https://github.com/user-attachments/assets/8f624c29-2c19-47aa-8476-614e60c7f1e7" />
 
 
